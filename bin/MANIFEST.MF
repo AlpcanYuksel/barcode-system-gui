@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: application.view.HomeGUI
+Class-Path: .
+X-File-Encoding: UTF-8
